@@ -3,6 +3,103 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Euronews
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Eurosport 1
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Eurosport 2
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/136.m3u8
+
+
+################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://client.lancartech.co.id/logo_new/INDOSIAR.png" group-title="LOKAL HD",Indosiar
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/74.m3u8
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://client.lancartech.co.id/logo_new/iNews.png" group-title="LOKAL HD",iNews
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/12.m3u8
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="BTV" tvg-logo="https://client.lancartech.co.id/logo_new/BTV.png" group-title="LOKAL HD",BTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/20.m3u8
+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://client.lancartech.co.id/logo_new/GTV.png" group-title="LOKAL HD",GTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/11.m3u8
+
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://client.lancartech.co.id/logo_new/ANTV.png" group-title="LOKAL HD",ANTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia" tvg-logo="https://i.imgur.com/c5RoH0R.png" group-title="LOKAL HD",CNBC Asia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/81.m3u8
+
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://client.lancartech.co.id/logo_new/CNBC_Indonesia.png" group-title="LOKAL HD",CNBC Indonesia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/3.m3u8
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="CNN Indonesia" tvg-logo="https://client.lancartech.co.id/logo_new/CNN_Indonesia.png" group-title="LOKAL HD",CNN Indonesia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/4.m3u8
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TVOne" tvg-logo="https://client.lancartech.co.id/logo_new/tvOne.png" group-title="LOKAL HD",TVOne
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/19.m3u8
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI Nasional" tvg-logo="https://client.lancartech.co.id/logo_new/TVRI.png" group-title="LOKAL HD",TVRI Nasional
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/17.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_7.png" group-title="LOKAL HD",Trans 7
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/1.m3u8
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV" tvg-logo="https://client.lancartech.co.id/logo_new/Trans_TV.png" group-title="LOKAL HD",Trans TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/2.m3u8
+
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="RTV" tvg-logo="https://client.lancartech.co.id/logo_new/RTV.png" group-title="LOKAL HD",RTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/8.m3u8
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://client.lancartech.co.id/logo_new/SCTV.png" group-title="LOKAL HD",SCTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/5.m3u8
+
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://client.lancartech.co.id/logo_new/RCTI.png" group-title="LOKAL HD",RCTI
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/13.m3u8
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net TV" tvg-logo="https://client.lancartech.co.id/logo_new/NET.png" group-title="LOKAL HD",Net TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/14.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://client.lancartech.co.id/logo_new/MNC_TV.png" group-title="LOKAL HD",MNC TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/10.m3u8
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Moji" tvg-logo="https://client.lancartech.co.id/logo_new/MOJI.png" group-title="LOKAL HD",Moji
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/6.m3u8
+
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://client.lancartech.co.id/logo_new/Metro_TV.png" group-title="LOKAL HD",Metro TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/21.m3u8
+
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Magna Channel" tvg-logo="https://client.lancartech.co.id/logo_new/Magna_TV.png" group-title="LOKAL HD",Magna Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/22.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://client.lancartech.co.id/logo_new/Kompas_TV.png" group-title="LOKAL HD",Kompas TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/9.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="VTV" tvg-logo="https://client.lancartech.co.id/logo_new/VTV.png" group-title="LOKAL HD",VTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/16.m3u8
+
+#EXTINF:-1 tvg-id="Vision Prime - [Channel 94].id" tvg-name="Vision Prime" tvg-logo="https://client.lancartech.co.id/logo_new/Vision_Prime.png" group-title="LOKAL HD",Vision Prime
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/72.m3u8
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="BN Channel" tvg-logo="https://client.lancartech.co.id/logo_new/BN_Channel.png" group-title="LOKAL HD",BN Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/23.m3u8
+
+#EXTINF:-1 tvg-id="OK TV - [Channel 95].id" tvg-name="OKTV" tvg-logo="https://client.lancartech.co.id/logo_new/OKTV.png" group-title="LOKAL HD",OKTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/71.m3u8
+
+
+
+
+
 
 
 
@@ -514,6 +611,79 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/channelnewsasia.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtn.m3u8
 
 ###############################################$
+
+################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/z2RPD48.png" group-title="SPORT TV",Fight Sports
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/62.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/SoURpZs.png" group-title="SPORT TV",Soccer Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/61.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://i.imgur.com/qSiX3JN.png" group-title="SPORT TV",SPO TV 1 ID
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://i.imgur.com/qSiX3JN.png" group-title="SPORT TV",SPO TV 1 MY
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/58442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://i.imgur.com/qSiX3JN.png" group-title="SPORT TV",SPO TV 2 ID
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://i.imgur.com/qSiX3JN.png" group-title="SPORT TV",SPO TV 2 MY
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/58443.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/d5FUs73.png" group-title="SPORT TV",Tennis Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/67.m3u8
+
+################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/MltUqZx.png" group-title="Kids",Baby TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/31.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/J0UO3yS.png" group-title="Kids",Bloomberg
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/87.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/HwcxoKV.png" group-title="Kids",Boomerang
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/37.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/ThXmCtX.png" group-title="Kids",Cartoon Network
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/Zv9dpWd.png" group-title="Kids",Cartoonito
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBeeBies" tvg-logo="https://i.imgur.com/Zv9dpWd.png" group-title="Kids",CBeeBies
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/29.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Kids" tvg-logo="https://i.imgur.com/Zv9dpWd.png" group-title="Kids",Cinemachi Kids
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322215.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.imgur.com/Zv9dpWd.png" group-title="Kids",My Kidz
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322224.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://i.imgur.com/9vOig0M.png" group-title="Kids",Kids TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Horee!" tvg-logo="https://i.imgur.com/xIlTQbe.png" group-title="Kids",Horee!
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324880.m3u8
+
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Mentari" tvg-logo="https://client.lancartech.co.id/logo_new/Mentari_TV.png" group-title="Kids",Mentari
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/7.m3u8
+
+
+
+################################################################
+
+
+
+
+
+
+
+
+
+
 
 ```````` KNOWLEDGE ````````
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg" group-title="KNOWLEDGE", CRIME INVESTIGATION 🇺🇸
@@ -8744,3 +8914,223 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c533f8f06fc563bbce4511857f4686d:ae291e961486e5f553f0dc1c4e7650aa
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/IDN_index.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://i.imgur.com/KBOS4Lc.png" group-title="Live TV",Channel U
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/138.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ic4Qms3XZA2QsU5BpdYF5tuwBEH9-4HCiqVwf8-pM6Rg.png" group-title="Live TV",TRT World
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBU3wp8WLxVD1yd8gFY9N6_u3aj7tn7P4YB4DsnxvS8Q.png" group-title="Live TV",ABC Australia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jtJFyxN5pNtehmG39OacXllCLqi9wRs305Ho_1TPxYgQ.png" group-title="Live TV",Al Jazeera
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anhui TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gtrKvn8ve1DD3FdhK3dRV_sxHGX-XnVuvisY7bbFXniw.png" group-title="Live TV",Anhui TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hPLEs_nMyKd_ZS4cLhXQARvtoPx83LAikGzhFT05-5aQ.png" group-title="Live TV",Animal Planet
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jCd5Rzodv1ICT8DGF28PS9.png" group-title="Live TV",Animax
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQZp_jWYydw8EnTcOgL8EC4qepdHW4Ls23LdhvyN7Xvw.png" group-title="Live TV",Aniplus
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/36.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDvpSsndmOZKQuX8i_vdF6b69vL7NjIVuCJtEkdRqWow.png" group-title="Live TV",Arirang
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asia Food Network" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gsl0duVr7plLsvfZ_1lQkHP9hCQktKvU24AKZ5RShPJA.png" group-title="Live TV",Asia Food Network
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gKbpFX2cd8P_b6Hp5fQ94P.png" group-title="Live TV",AXN
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hFmmMOeSO3K_nA4exT7k7hWDRHDuCPXQY1Z7HALRH6ug.png" group-title="Live TV",BBC Earth
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ifOnMYftzRCUERGvrLpK9lJWme3gemSe-EwXe-fnZ9EA.png" group-title="Live TV",BBC World News
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7isk_4PtUZDXy1TlEW4xkU09SbY5ylMBpy-705sF5iDqg.png" group-title="Live TV",beIN Sports 1
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jdpHlknDxb7jwQ4sMTMoEvSAHxQpWJPu_aAePSTV4CtA.png" group-title="Live TV",beIN Sports 3
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/69.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hfknwDC2Qge9aQjRwlplmBlJLjBxe4415M-dQxSgRTqQ.png" group-title="Live TV",Celestial Classic Movies
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/41.m3u8
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-name="Celestial Movies" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jfVOVVW-1I4kv4MiPhFZHTV4pEghkhH6nBJ5jGp7KyJQ.png" group-title="Live TV",Celestial Movies
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jH6FMoVC06ZmBBR_FkaoK0.png" group-title="Live TV",CGTN
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gEd-B8NjnxI_CEFACMvLnrWfNDYXQkJiYLetGH28sJrw.png" group-title="Live TV",Channel 8
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hyyuU9-ktsxZdBSyflkt9EHDQHvz1HwWViuRbkllSHKw.png" group-title="Live TV",Channel News Asia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/80.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5VArsO4KiANUx9hd1zElrnDZp9FhE0EZ_WrJUXQFhsQ.png" group-title="Live TV",Cinema World
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/51.m3u8
+
+#EXTINF:-1 tvg-id="CINEMACHI MAX - [Channel 10].id" tvg-name="Cinemachi Max" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gC6Va9DtwdA4-j9JRfbMS1KiZFsWvJDj3bIpiG6kpZjg.png" group-title="Live TV",Cinemachi Max
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322216.m3u8
+#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7].id" tvg-name="Cinemachi TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gYVqryB-aMgw97tNbiT7WmecAy-Nm38_s5Bf6e3ElEbw.png" group-title="Live TV",Cinemachi TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322217.m3u8
+#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-name="Cinemachi XTRA" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hVIQTknJQfPnVGLOXomZ56ETI-vysK5sAUiE-dcJAwqA.png" group-title="Live TV",Cinemachi XTRA
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_3raLvAHO5caeXvQdFPKKWaCP-KaQJDqjEN76eZOm0w.png" group-title="Live TV",Cinemax
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hrbjMTlWUkOxYILfJNFa7Uq7gVAd5Ztp9VlEINu7BodA.png" group-title="Live TV",Citra Bioskop
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gxWfJbHz2AuAt7PHQEflK46yMDQE4xokCLizU7V8k4ZA.png" group-title="Live TV",Citra Dangdut
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jFFML5-zk8dJ0cCA14S-IQjwXvymh9elnBrNqUpGJ3Vw.png" group-title="Live TV",Citra Drama
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/92.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j0YlAskQ9Sb2Q4IeIzZrdSpecxhFizf8_280ttRKvKdA.png" group-title="Live TV",CNN International
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iEpvkz_lYEkdZgBgbdtCk_DPZSV-Zr2BzWzkhMTm7s4A.png" group-title="Live TV",Crime & Investigation
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7guM7tplN0FSOKDWg64BaT2.png" group-title="Live TV",Dazn 1
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hiU4FWp75X6F65FNK7mzoE.png" group-title="Live TV",Dazn 2
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jHG1cYquuzEtKRNpiu7cZN.png" group-title="Live TV",Dazn F1
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g9AnYQkNkp4HOsvg7SgNNT8XL28G-fChBSq28qjo5tcg.png" group-title="Live TV",Discovery Asia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iVPPcGasii6cJXSgSuCVgW.png" group-title="Live TV",DMAX
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gnlo8-tN-NzeHezP8Viw7k.png" group-title="Live TV",DW
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/78.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ghLGyTJI0JLxRYokukD07B.png" group-title="Live TV",EWTN
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/115.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="First Warrior" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7imWuSGARXIMaMcCHHv4IVIpkjgkOcECk__8FY3BBkNuw.png" group-title="Live TV",First Warrior
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324876.m3u8
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-name="FMN Channel" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQe00FNH8Zjkojta9sSuRnJ6EJk_fC_cJ-ut2xQbADDg.png" group-title="Live TV",FMN Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iaBv-BU92LaXQi54Tt7OG0IRDoFPTf85002QY2MBF6rA.png" group-title="Live TV",Food Network
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i5VkenvvrlPO5bAcCrLCZ1Jlfuz-5B0ianjdklbAKbVA.png" group-title="Live TV",Fox News
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iDj6QE7UKcHF2YTYLmZHtex4vNnyXaqYyD9syChSDDlA.png" group-title="Live TV",France24
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gJwI-_L7iQJVAph3O8-CJ0.png" group-title="Live TV",Galaxy
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hS5xqAC_aHETcMmcugKBZVQvv7JCbZCNhWXTcFKoOZkg.png" group-title="Live TV",Galaxy Premium
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/42.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gtrbGp4zGyCgIqHxl5KxzW.png" group-title="Live TV",HBO
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iI6Njw2amxMq-AA4yqSLnlCbE1XPmkpYbESLPdeYahNA.png" group-title="Live TV",HBO Family
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hDiMxmwL108I_d6CjWSRdLlK-K88hx-0PAxYD9uYVh1g.png" group-title="Live TV",HBO Hits
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jZU5-lE5JTyTGG6GPJarODLPKAmeElZHfyEGBK8oNrrA.png" group-title="Live TV",HBO Signature
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gH6a3UQ-U9jsQkiYVmqLvN.png" group-title="Live TV",HGTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7io03_xXZAb6yXBWtTLCy84MluFj7Vg5XP8jjMCXZ8rXg.png" group-title="Live TV",History
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/113.m3u8
+#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-name="HITS" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_Mt7yBz8rUKlb3tXiP6R0.png" group-title="Live TV",HITS
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/53.m3u8
+#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-name="HITS Movies" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gWWx3ZdVCy46lWLHgvQXe8aTIfU-DQtgEVbptjjzf5fA.png" group-title="Live TV",HITS Movies
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/47.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hunan TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gOt33P5hTDc61GjBH8syyRynPZVhBzx6nWg3zBOdRDpA.png" group-title="Live TV",Hunan TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/39.m3u8
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-name="IMC" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hNT_cWPBxV82mH7ypRQuLv.png" group-title="Live TV",IMC
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324042.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jiangsu TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iscxSapankxY3TtLZlfNYegNl0nGv-8e0D22Bg_Ix8_w.png" group-title="Live TV",Jiangsu TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7joKEJJNuzUx4JA7r6zuUHvYBhRM8xSBtCVnQE6waA3lg.png" group-title="Live TV",KBS World
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/96.m3u8
+
+#EXTINF:-1 tvg-id="KIX - [Channel 161].id" tvg-name="KiX" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hNeqc0mGGVeD7gpBRVbgQp.png" group-title="Live TV",KiX
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/52.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jrUGonlZa60VUHuEH-fB4dJgrIRhIVoV-SVbphKowd3Q.png" group-title="Live TV",Lifetime
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX8dS_iLSGC4B3JaPG52KHlPdc5vEyzYFljT2wr4eSGw.png" group-title="Live TV",Love Nature
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/110.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="" group-title="Live TV",Makkah TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324882.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iu4fF9thGJ0KJ4JbQpUYrj.png" group-title="Live TV",MTV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7idXoDwRmMtE9Aue8IaSprlDi5FircTDGUpoLP9I5rgpA.png" group-title="Live TV",Music TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/106.m3u8
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-name="My Cinema Asia" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX6hn3cogLP3TdRRyg1YSKdjadfokOiCn2MzfCGplF7A.png" group-title="Live TV",My Cinema Asia
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322222.m3u8
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-name="My Family Channel" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gElzWtn6D1imOXjZv0xPkg2twWf2_aguUGmGCAZLMgwA.png" group-title="Live TV",My Family Channel
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322223.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NaDoo Korean" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7izxOMLN4yxfp_FcGxylVsjEFnQgz4MWFtH0NldfVpI5Q.png" group-title="Live TV",NaDoo Korean
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iYAz8MN5EGPUg02b79J-jk.png" group-title="Live TV",NBA TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/134.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jieG18ab-FhXRTiMmmM38MX6ekB9nBab4bArxPW89z1w.png" group-title="Live TV",NHK World
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jZ9WE9ZDfDw8Uqawdqom9m.png" group-title="Live TV",Nick Jr
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hf4mAzyBo5TXyYvhSaamq-ZcbWm5zVVJPP-P95JmPBHQ.png" group-title="Live TV",Nickelodeon
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="One Music" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g24uSdZkTjUJuZoLI3tmCbqChqdNvqm2TgTVynHM8cJg.png" group-title="Live TV",One Music
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/107.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j8NmIbtjgBnobeawVoxg1L0RCNaKr53v5FZ4-iJocbdA.png" group-title="Live TV",Red Bull TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBom_afSo2mrdNz8BYMj3ZitPhbFKArGFIZGNjCdcfCw.png" group-title="Live TV",Reformed 21
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gGOBvK2WRm-3lrM_ZKDOkxbPn_wciqjIAk76FgVRVn8A.png" group-title="Live TV",Rock Action
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBu7HkaPuSLCNs3PxDqSjALfaTPdXwM9wc8hIVpeDOCw.png" group-title="Live TV",Rock Entertainment
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/322221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hb4j_Dc8iB3ODk4FWN_ny_Y7FGWooTXKDVEc1p3EryAg.png" group-title="Live TV",Rodja TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/119.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jw7EPPWzsYjXc13L-jb_w2HmTGQLCdtCoRq-8lpulm5Q.png" group-title="Live TV",Russia Today
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/86.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Gem" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hx_9QmtC8ZHytZqSLEbHQLfz1OBIe6snFW69_Wo6k-Tw.png" group-title="Live TV",Sony Gem
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gy8TvjdtOvsHBQf6xV-m6eOClSsYg5t3c32XE6QPNTrw.png" group-title="Live TV",Sony One
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/98.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Festival" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hxF7GXAFLCXKcJECCVIAgGXK2YLtJsHkIMZeNFQygBIQ.png" group-title="Live TV",Stingray Festival
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Jazz" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j7Qby--TvRf7qy8toaUA_M4E_D9DMeSYnwzuQW5qlNPw.png" group-title="Live TV",Stingray Jazz
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/324878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hMvPAR7tP_htnHwVLhhWHU.png" group-title="Live TV",Suria
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/139.m3u8
+
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gofFaIlui98OthoFI35qTV.png" group-title="Live TV",Thrill
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5RQVYA_PjX0vEkfnoSFQK.png" group-title="Live TV",TLC
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/100.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gNj-GnxHawFJ-L5iLOLTYn.png" group-title="Live TV",TVKU
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iSH_LiepCLaG_QUwxpwwmT.png" group-title="Live TV",TVMU
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i2LvoW2ChMRDFxKYv34Kxl.png" group-title="Live TV",TvN
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/104.m3u8
+#EXTINF:-1 tvg-id="tvN - [Channel 158].id" tvg-name="TvN Movies" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gzumxsE_hhdD9cZuz4kM-CF8o9A4kemcsL43u4R1yn_Q.png" group-title="Live TV",TvN Movies
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/49.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iqYYzc_LlvBi68phWgsMbQid9K4N1XcVkvHmrOl6TPLA.png" group-title="Live TV",Vasantham
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/140.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j1AFglxMc8-wmVJpXsoSk4uZ2Nq8ebjxg-8Mobb91JiA.png" group-title="Live TV",Warner TV
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeBioskop" tvg-logo="s:1:/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDwdw1dYGtCOI5s3qmf3HkDlonCl06Abf-XJtLcg3dcg.png" group-title="Live TV",ZeeBioskop
+https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/44.m3u8
