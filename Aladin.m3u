@@ -3,13 +3,29 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Euronews
-https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/77.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Eurosport 1
-https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/mi7cHrC.png" group-title="UERO 2024",Eurosport 2
-https://play.qiptv.pro/live/9b003aa377dc4b76/de4e620d0cffebad/136.m3u8
 
+
+
+#EXTINF:-1 group-title="PROLIGA" tvg-id="MOJI" tvg-logo="https://i.imgur.com/TIYO5TQ.png",MOJI
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=YmExMDhlNzc5ZGRjN2VhOS/fuKHzJkVIXzySSDHIHq+Y7HVYpWXR2Cmx+t1RArkHNVn65FxgCxyOacJChEbDwf1Nt7z8k7dmg50GjtjbEQfxAw5/k999GE1n7vfTr9JVMzQzZWJhOGJkMGQ4ZTA3OA
+https://wakhaji.my.id/ZTRhMGFjZGViYzBmOTM0ZJa1gPNGyElRZCjimzbKPsmXgsQls0JdcaqlBgjaQoPMbpYmr2a9wt+CWYulOnQuzRhNLj1cxNm51afb+O319vU0ZWJlZjIyYjgxNDEyNDZi
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="wakhaji" tvg-logo="https://i.imgur.com/TIYO5TQ.png" group-title="PROLIGA",MOJI
+#EXTHTTP:MGFiN2IwZDY3YWE2ZDIxOEFIcjM24AHMz1NLrcWsBBHt6ZNQppg++CwdTahKJPsae0Uq+UXyrSDXvrM6gDq5cjRiNWM3N2UxYjM1NzJjNmE
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+https://wakhaji.my.id/NzA1ZTA0ZDE5NmE3OWM4ZoyhAQMHysOrAw4mFK1dJWeMQnmqNqwpwr/FeBlkm2EyQ8sxYZMQSUiK2/Jc6Sp81zFqJwM8IoovLqD7bGoR6G40NjIwZDc1NWU5YmZjZDM0
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/TIYO5TQ.png" group-title="PROLIGA", MOJI
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=MTVkOTU4ZGY5ZWMwNzA1Zu9lcpBEvPvEbqUxIJ+GcYSQ5oHLncpRg3SKrj9y6HMP9QsjqgLUeRDwPS0L0Tv3yNX8wjf8J3BKjKeIROQBXd4M92+lmxLJsQUVGjIneuX1MzBiOTBkYThkZjUyMWU2MA
+https://wakhaji.my.id/MDlhMTY2NjIwMWE0YTFmZrxL44K+6HOC3JKEsADOjgeF/YHBhdmS9NmSugObnWvlSW9G5eq10IrLrhLzK4rW/2Dy++ZmJntZcV0Qh7Cm3w1jZjg5ZWIzNWI3OTEwYTJk
 
 ################################################################
 
