@@ -80,11 +80,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
  
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/8heByT6.png" group-title="TV NASIONAL", MENTARI TV .
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1719072618~acl=/live/8237/*~id=161539944~hmac=94dc5a52fae5012f71c35d963a95df1538a051bae9bf4b809111248bca907e7b
  
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/dLfbX5y.png" group-title="TV NASIONAL", NUSANTARA TV .
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -243,11 +240,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://ytlive.zazerconer.workers.dev/@OfficialiNews.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/dIXMH9z.png" group-title="VISION+", MENTARI TV .
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1719072618~acl=/live/8237/*~id=161539944~hmac=94dc5a52fae5012f71c35d963a95df1538a051bae9bf4b809111248bca907e7b
  
 #EXTINF:-1 group-title="VISION+" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/PlK53Lq.png",VTV .
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
