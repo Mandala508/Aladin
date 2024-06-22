@@ -210,10 +210,18 @@ https://testfunctionlive.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Refere
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/PL1Vv8G.png", JakTV
 https://testfunctionlive.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|Referer=https://www.visionplus.id/
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/opd1uka.png", JTV
-https://testfunctionlive.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/9713/master.m3u8?hdnts=exp=1719058729~acl=/live/9713/*~id=161539944~hmac=d583a140e0da8c01593879e9cf0d041a0b35105e6a2019f86c9cbf61baeb0b08
+
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/opd1uka.png", JTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/9713/master.m3u8?hdnts=exp=1719058729~acl=/live/9713/*~id=161539944~hmac=d583a140e0da8c01593879e9cf0d041a0b35105e6a2019f86c9cbf61baeb0b08
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
