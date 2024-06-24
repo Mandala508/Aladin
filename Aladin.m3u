@@ -1,23 +1,25 @@
 
 
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/G52TQ6G.png" group-title="TV NASIONAL",RCTI .
-https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://i.imgur.com/tMG4wKw.png" group-title="TV NASIONAL",MNCTV .
-https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.imgur.com/wcL9Txz.png" group-title="TV NASIONAL",GTV .
-https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 
 #EXTINF:-1 tvg-name="iNews" tvg-logo="https://i.imgur.com/NDbxsbK.png" group-title="TV NASIONAL",INEWS .
 https://ytlive.zazerconer.workers.dev/@OfficialiNews.m3u8
@@ -80,8 +82,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
  
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/8heByT6.png" group-title="TV NASIONAL", MENTARI TV .
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1719072618~acl=/live/8237/*~id=161539944~hmac=94dc5a52fae5012f71c35d963a95df1538a051bae9bf4b809111248bca907e7b
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/dLfbX5y.png" group-title="TV NASIONAL", NUSANTARA TV .
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -101,155 +102,12 @@ https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
  
  
- 
-
-
-=====VISION+=====
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5aAgxwn.png" group-title="VISION+", INDOSIAR 
-#https://bit.ly/3MeFJVc
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/7rMvrxo.png", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-#https://bit.ly/3tMoswx
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.imgur.com/cGmxynF.png" group-title="VISION+", SCTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#http://103.226.232.196:8000/play/a013/index.m3u8
-https://raw.githubusercontent.com/eepunx/cancan/main/sc
-
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://i.imgur.com/5aAgxwn.png"" group-title="VISION+", INDOSIAR HD
-#http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://i.imgur.com/7rMvrxo.png" group-title="VISION+", MOJI HD
-#http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/QspYJvU.png", MNC TV
-https://testfunctionlive.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/1R1JA1R.png", RCTI
-https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" ch-number="100" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/1R1JA1R.png" group-title="VISION+", RCTI HD
-https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/7rTsHx8.png", GTV
-https://testfunctionlive.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/vxrlodp.png", ANTV
-https://testfunctionlive.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/eqBY5B0.png", BTV/Berita satu
-https://testfunctionlive.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/3BZgP64.png", TVONE
-https://testfunctionlive.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/v7OIsbD.png", RTV
-https://testfunctionlive.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/fu6eAFR.png", Kompas TV
-https://testfunctionlive.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/1gy7wU1.png", Metro TV
-https://testfunctionlive.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/GhUXuMA.png", TRANS TV
-https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/qi4GAlS.png", TRANS 7
-https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/WtcpNSl.png", TVRI
-https://testfunctionlive.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/tI08G31.png", DAAI TV
-https://testfunctionlive.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/PL1Vv8G.png", JakTV
-https://testfunctionlive.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|Referer=https://www.visionplus.id/
-
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/opd1uka.png", JTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/9713/master.m3u8?hdnts=exp=1719058729~acl=/live/9713/*~id=161539944~hmac=d583a140e0da8c01593879e9cf0d041a0b35105e6a2019f86c9cbf61baeb0b08
-
-
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/opd1uka.png", JTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/9713/master.m3u8?hdnts=exp=1719058729~acl=/live/9713/*~id=161539944~hmac=d583a140e0da8c01593879e9cf0d041a0b35105e6a2019f86c9cbf61baeb0b08
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/ecj7Ryk.png",GARUDA
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/QGkAa8A.png", BALI TV
-https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|Referer=https://www.visionplus.id/
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/OaKk2Wy.png", Bandung TV
-https://testfunctionlive.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/jRz4TRz.png" group-title="VISION+", CNN INDONESIA .
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
- 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/S47v40c.png" group-title="VISION+", CNBC INDONESIA .
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
- 
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://i.imgur.com/OjRWuOv.png" group-title="VISION+",INEWS .
-https://ytlive.zazerconer.workers.dev/@OfficialiNews.m3u8
-
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/dIXMH9z.png" group-title="VISION+", MENTARI TV .
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1719072618~acl=/live/8237/*~id=161539944~hmac=94dc5a52fae5012f71c35d963a95df1538a051bae9bf4b809111248bca907e7b
- 
-#EXTINF:-1 group-title="VISION+" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/PlK53Lq.png",VTV .
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
- 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/FCr71LU.png" group-title="VISION+", NUSANTARA TV .
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
- 
 
 #################TVRI##############################$
 
