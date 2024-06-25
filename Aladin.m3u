@@ -868,10 +868,10 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z33Taj2.png" group-title="Sports", TENNIS CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PHD6io.png" group-title="Sports", TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z33Taj2.png" group-title="Sports", TENNIS CHANNEL HD 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PHD6io.png" group-title="Sports", TENNIS CHANNEL HD 1
 https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
 
 
