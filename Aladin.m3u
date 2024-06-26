@@ -865,9 +865,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/cmaf-video=3000000.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/VSYtQj4.png",TV3 */*
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/cmaf-video=3000000.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://i.imgur.com/VSYtQj4.png",TV3+
+http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -910,9 +910,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #EXTINF:-1 tvg-id="AwesomeTV.my"tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/ivuNGBA.png" group-title="Malaysia",Awesome TV
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
+http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="Malaysia" tvg-id="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/99ymrLN.png",Travel&Taste 
