@@ -164,7 +164,10 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uyONtlL.png" group-title="TV NASIONAL",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F06eCnd.png" group-title="TV NASIONAL", Jowo Tv
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11962
 
 
 
