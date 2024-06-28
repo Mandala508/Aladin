@@ -1,11 +1,4 @@
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/beH41A0.png" group-title="TV NASIONAL",NAGASWARA DANGDUT
-https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-
-
-
 #EXTM3U
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/dyPbOH0.png" group-title="TV NASIONAL",RCTI .
@@ -111,10 +104,17 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://i.imgur.com/n8cy9bo.png",JTV 
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyONtlL.png" group-title="TV NASIONAL",NAGASWARA DANGDUT
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 
 
 
+
+####################################################
 
 
 
