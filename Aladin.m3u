@@ -19,47 +19,38 @@ https://data04.streamku.xyz/f/2019/1/Aladdin.2019.720p.BluRay.x264-%5Bdriveq.xyz
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://mandala.x10.mx/logo1/rcti.png" group-title="TV NASIONAL",RCTI HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZIU4CTIl2WXsnMs0k_FU2xE/ts
+
 
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="http://mandala.x10.mx/logo1/mnctv.png" group-title="TV NASIONAL",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-name="MNCTV" tvg-logo="http://mandala.x10.mx/logo1/mnctv.png" group-title="TV NASIONAL",MNCTV HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZJBLTwIGU06wRSlPfgeUgUE/ts
+
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="http://mandala.x10.mx/logo1/gtv.png" group-title="TV NASIONAL",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="http://mandala.x10.mx/logo1/gtv.png" group-title="TV NASIONAL",GTV HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZI6pvT3JpmYATGlkPfuPNCf/ts
+
 
 #EXTINF:-1 tvg-name="iNews" tvg-logo="http://mandala.x10.mx/logo1/news.png" group-title="TV NASIONAL",INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-name="iNews" tvg-logo="http://mandala.x10.mx/logo1/news.png" group-title="TV NASIONAL",INEWS HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKz8iytHIlg4rZGuIbnehP7/ts
 
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="http://mandala.x10.mx/logo1/sctv.png" group-title="TV NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
  
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="http://mandala.x10.mx/logo1/sctv.png" group-title="TV NASIONAL",SCTV HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZI0flt_zPUa-COEv0WhbVqc/ts
 
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="http://mandala.x10.mx/logo1/indosiar.png" group-title="TV NASIONAL",Indosiar 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
  
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="http://mandala.x10.mx/logo1/indosiar.png" group-title="TV NASIONAL",Indosiar HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKEOpMpZpiuIb17pex1D-1T/ts
 
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="http://mandala.x10.mx/logo1/net.png" group-title="TV NASIONAL", NET
@@ -67,14 +58,10 @@ https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKEOpMp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
  
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="http://mandala.x10.mx/logo1/net.png" group-title="TV NASIONAL", NET HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKk9FXnlRN59ElmPgEzSu7G/ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://mandala.x10.mx/logo1/transtv.png", TRANS TV
 http://103.196.152.135/play/P-n3VKobGR42jvXK1gnq-RScEF_cV15cVFacvZL0yP79G0n4w_ce_3fNn2rHNnR6/ts
  
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://mandala.x10.mx/logo1/transtv.png", TRANS TV HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZI9X6RGLVSZPaLXxNlhxQ7T/ts
 
  
 
@@ -87,8 +74,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w951314700_b744100_sle
 
 
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://mandala.x10.mx/logo1/trans7.png", TRANS 7 HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZL3CCcQB0rJQ0azQ92L-kKO/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://mandala.x10.mx/logo1/cnn.png" group-title="TV NASIONAL", CNN INDONESIA .
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -108,8 +93,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
  
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="http://mandala.x10.mx/logo1/antv.png" group-title="TV NASIONAL", ANTV HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZLZ_OA6jwlkPI1WAM1TQfGU/ts
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="http://mandala.x10.mx/logo1/tvone.png" group-title="TV NASIONAL", TV ONE HD .
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -117,8 +100,6 @@ https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZLZ_OA6
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
  
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="http://mandala.x10.mx/logo1/tvone.png" group-title="TV NASIONAL", TV ONE HD HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZJ2yq0sgheAEMvISH74oZTh/ts
 
 #EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo1/metro.png" group-title="TV NASIONAL",METRO TV .
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -127,15 +108,11 @@ https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZJ2yq0s
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
  
-#EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo1/metro.png" group-title="TV NASIONAL",METRO TV  HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZJgdgo1AYdmDi78fzrU3h4P/ts
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="http://mandala.x10.mx/logo1/kompas.png" group-title="TV NASIONAL", KOMPAS TV .
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
  
- #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="http://mandala.x10.mx/logo1/kompas.png" group-title="TV NASIONAL", KOMPAS TV HD
- https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZJPx36wKPFNyeHwM1y4oF-4/ts
  
 #EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="http://mandala.x10.mx/logo1/rtv.png" group-title="TV NASIONAL", RTV HD .
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -156,9 +133,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
  
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="http://mandala.x10.mx/logo1/tvri.png" group-title="TV NASIONAL", TVRI NASIONAL HD 
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKxZ41b5ow2pobWKD8uTPB2/ts
- 
+
  
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="http://mandala.x10.mx/logo1/btv.png" group-title="TV NASIONAL", BTV .
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -166,9 +141,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:0 tvg-logo="http://mandala.x10.mx/logo1/moji.png" group-title="TV NASIONAL", MOJI . 
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
  
-#EXTINF:0 tvg-logo="http://mandala.x10.mx/logo1/moji.png" group-title="TV NASIONAL", MOJI HD
-https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZIhVNxhvjK5O6rQBIxDsl1z/ts
- 
+
  
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="http://mandala.x10.mx/logo1/vtv.png",VTV .
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
