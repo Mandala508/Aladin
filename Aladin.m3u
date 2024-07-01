@@ -67,7 +67,7 @@ https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKEOpMp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
  
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="http://mandala.x10.mx/logo1/metro.png" group-title="TV NASIONAL", NET HD
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="http://mandala.x10.mx/logo1/net.png" group-title="TV NASIONAL", NET HD
 https://luxurystream.my.id/play/Kzwe5-osSSArplG1Gxqlv_KNEfMghLDRdsntwg_XRZKk9FXnlRN59ElmPgEzSu7G/ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://mandala.x10.mx/logo1/transtv.png", TRANS TV
@@ -147,7 +147,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
  
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV .
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
  
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="http://mandala.x10.mx/logo1/nusantara.png" group-title="TV NASIONAL", NUSANTARA TV .
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -1496,18 +1496,26 @@ https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/120.m3u8
 ######################Singapore###########################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://client.lancartech.co.id/logo_new/Channel_8.png" group-title="Singapore",Channel 8
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/137.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ch5sing.png",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://client.lancartech.co.id/logo_new/Channel_U.png" group-title="Singapore",Channel U
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/138.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ch8sing.png",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
+#EXTINF:-1 group-title="Singapore" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/chu.png",Channel U
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://client.lancartech.co.id/logo_new/Suria.png" group-title="Singapore",Suria
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/139.m3u8
+#EXTINF:-1 group-title="Singapore" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/suria.png",Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://client.lancartech.co.id/logo_new/Vasantham.png" group-title="Singapore",Vasantham
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/140.m3u8
 
 
 
