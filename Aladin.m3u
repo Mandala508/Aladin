@@ -1,10 +1,27 @@
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/n5qw3d5.pngg" group-title="Aladin film", ALADDIN
+#EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo2/timnas.png" group-title="TIMNAS EVENT", live 2
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://wakhaji.my.id/NjkyMjcwMzA5ODcwM2MzNdVMlwHmlPGf1S5mNzAkQhO5rGL/JTAuk4kXyujA57gR+fXQu5ITWgqQWWMhKEq0KmNkNjE2MTU2OWQ1OTQwNTI
+
+
+
+#EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo2/timnas.png" group-title="TIMNAS EVENT", live 3
+#EXTVLCOPT:http-user-agent=ZjMzZTMwZDFlNDEyNjUzMir+MB8NOkZKPWYao/5gkF3/d1C2G72lspI/jZr/cbgkn8CWx/sBImX0a7zN5m9TkCvi/Mb31zNzR53yTZPyI9Py2WV2NPKWIAKf6+CzUHV9AhRAgpbyrdmWKeH6QFj4LjIzZGE3ZWFmMzc2NTAxNzc
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MjAwNTMwNzg5M2EwNDUyZrRzPJsLb3DdRdiB1UL4KrNNdccqtVp2UUiubI0iiTb+/2dsy6jigOxlA6iAgngTzCnLKuiKTUC3Cf7iWgz+GuyTXOdJQ+JlW9n52K9Wr+X5MzY4Y2U2OTdiY2M2MmY3Ng
+https://wakhaji.my.id/YmM1NmNiNTIxYzk0ODMzZmnnNYJ93ZlgT4raEEJTWNQiZNnoWrfqvXiUQMmJ2080kaxq0ifJ4NzG5fKKCMGUmO4/dFiQMnTDm5Oj9aunm94xOGY1MjkxNTdiZDc2NDQx
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/n5qw3d5.pngg" group-title="Kids", ALADDIN
 https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/n5qw3d5.pngg" group-title="Aladin film", ALADDIN-
-https://data04.streamku.xyz/f/2019/1/Aladdin.2019.720p.BluRay.x264-%5Bdriveq.xyz%5D.mp4
 
 
 
