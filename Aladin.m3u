@@ -1,24 +1,5 @@
 
 
-#EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo2/timnas.png" group-title="TIMNAS EVENT", live 2
-#KODIPROP:inputstream.adaptive.manifest_type=auto
-https://wakhaji.my.id/NjkyMjcwMzA5ODcwM2MzNdVMlwHmlPGf1S5mNzAkQhO5rGL/JTAuk4kXyujA57gR+fXQu5ITWgqQWWMhKEq0KmNkNjE2MTU2OWQ1OTQwNTI
-
-
-
-#EXTINF:-1 tvg-logo="http://mandala.x10.mx/logo2/timnas.png" group-title="TIMNAS EVENT", live 3
-#EXTVLCOPT:http-user-agent=ZjMzZTMwZDFlNDEyNjUzMir+MB8NOkZKPWYao/5gkF3/d1C2G72lspI/jZr/cbgkn8CWx/sBImX0a7zN5m9TkCvi/Mb31zNzR53yTZPyI9Py2WV2NPKWIAKf6+CzUHV9AhRAgpbyrdmWKeH6QFj4LjIzZGE3ZWFmMzc2NTAxNzc
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MjAwNTMwNzg5M2EwNDUyZrRzPJsLb3DdRdiB1UL4KrNNdccqtVp2UUiubI0iiTb+/2dsy6jigOxlA6iAgngTzCnLKuiKTUC3Cf7iWgz+GuyTXOdJQ+JlW9n52K9Wr+X5MzY4Y2U2OTdiY2M2MmY3Ng
-https://wakhaji.my.id/YmM1NmNiNTIxYzk0ODMzZmnnNYJ93ZlgT4raEEJTWNQiZNnoWrfqvXiUQMmJ2080kaxq0ifJ4NzG5fKKCMGUmO4/dFiQMnTDm5Oj9aunm94xOGY1MjkxNTdiZDc2NDQx
-
-
-
-
-
-
 
 
 
@@ -1373,7 +1354,75 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 
 
+##############$#############
 
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/premium714/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_1/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_2/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_3/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_4/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_5/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_6/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_7/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_8/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_9/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_10/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_11/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_12/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_13/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
+
+#EXTINF:0 group-title="TENNIS EVENT" tvg-logo="https://i.imgur.com/cZSW2Ky.jpg", Tennis 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://asdfasfd.onlinehdhls.ru/hzt/tc_plus_14/tracks-v1a1/mono.m3u8|origin=https://olalivehdplay.ru/
 
 
 
@@ -1468,23 +1517,75 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 
 ####################Religi#########################
 
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://client.lancartech.co.id/logo_new/EWTN.png" group-title="Religi",EWTN
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/115.m3u8
+#EXTINF:-1 tvg-logo="https://id.top10place.com/img_files/847429881968317" group-title="RELIGI",Alwafa
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://client.lancartech.co.id/logo_new/Mekkah_TV.png" group-title="Religi",Makkah TV
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/324882.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png" group-title="RELIGI",MUSLIM TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-id="Reformed 21.id" tvg-name="Reformed 21" tvg-logo="https://client.lancartech.co.id/logo_new/Reformed_21.png" group-title="Religi",Reformed 21
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/117.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGI",TV9 NU
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://client.lancartech.co.id/logo_new/Rodja_TV.png" group-title="Religi",Rodja TV
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/119.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://dl.dropboxusercontent.com/s/1sbyfrehiy3cvk4/rodjatv.png" group-title="RELIGI",Rodja TV
+https://flv.intechmedia.net/live/ch26.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
-#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="https://client.lancartech.co.id/logo_new/TVMU.png" group-title="Religi",TVMU
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/116.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="https://client.lancartech.co.id/logo_new/Wesal_TV.png" group-title="Religi",Wesal TV
-https://iptv.lancartech.co.id/live/apiv2group/1178a482625c407a/120.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_mu_id.png" group-title="RELIGI",TV MU
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png" group-title="RELIGI",TAWAF TV
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="RELIGI",MAKKAH
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="RELIGI",Fatwa TV
+https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+https://flv.intechmedia.net/live/ch2.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
+https://flv.intechmedia.net/live/ch4.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH%20TV.jpg",hijrah TV
+https://flv.intechmedia.net/live/ch8.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp%20tv.png",SUNNAH TV
+https://flv.intechmedia.net/live/ch17.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://dl.dropboxusercontent.com/s/m50fs6hl26yzgh4/madinah.png" group-title="RELIGI",Al Sunnah Al Nabawiyah TV
+https://flv.intechmedia.net/live/ch13.m3u8|User-Agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://dl.dropboxusercontent.com/s/9xmttnf6a6h7d8x/mekkah.png" group-title="RELIGI",Al Quran Al Kareem TV
+https://flv.intechmedia.net/live/ch14.m3u8|User-Agent=YouTV/1.5.6-prod.release
+
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="TV 9 Nusantara" tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png" group-title="RELIGI",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-name="Inspira TV" tvg-logo="https://dl.dropboxusercontent.com/s/h8sku4kxmhhi6bc/inspira.png" group-title="RELIGI",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="MGITV.id" tvg-name="MGI TV" tvg-logo="https://dl.dropboxusercontent.com/s/iszdkpq2ftlapu4/mgitv.png" group-title="RELIGI",MGI TV
+https://flv.intechmedia.net/live/ch25.m3u8|User-Agent=YouTV/1.5.6-prod.release
 
 
 ######################Singapore###########################
