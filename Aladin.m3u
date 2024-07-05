@@ -165,7 +165,11 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11962
 
 
 
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV
+http://sentul.imtech.co.id:8096/stream/channelid/1878742354?ticket=92F5A0909DC6F24BF01A6B4EB5773FAF24430F36&profile=pass
 
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV 1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 ####################################################
