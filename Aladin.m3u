@@ -19,9 +19,6 @@ https://wakhaji.my.id/YmM1NmNiNTIxYzk0ODMzZmnnNYJ93ZlgT4raEEJTWNQiZNnoWrfqvXiUQM
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/n5qw3d5.pngg" group-title="Kids", ALADDIN
-https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
-
 
 
 
@@ -1269,6 +1266,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-id="40" tvg-logo="https://i.imgur.com/zfSnYkA.png" group-title="Kids", Nick
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/n5qw3d5.pngg" group-title="Kids", ALADDIN
+https://stream.hownetwork.xyz/xxx/aladdin-2019-bluray/10/480.m3u8
 
 
 ################################################################
