@@ -123,8 +123,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0dc1e828693e30d88d0e26677e572992:339ff6f612893358ea95bf9b0f6ad70b
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
  
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV .
-http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV
+http://sentul.imtech.co.id:8096/stream/channelid/1878742354?ticket=92F5A0909DC6F24BF01A6B4EB5773FAF24430F36&profile=pass
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV 1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
  
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="http://mandala.x10.mx/logo1/nusantara.png" group-title="TV NASIONAL", NUSANTARA TV .
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -165,11 +169,6 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11962
 
 
 
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV
-http://sentul.imtech.co.id:8096/stream/channelid/1878742354?ticket=92F5A0909DC6F24BF01A6B4EB5773FAF24430F36&profile=pass
-
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="http://mandala.x10.mx/logo1/mentari.png" group-title="TV NASIONAL", MENTARI TV 1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 ####################################################
