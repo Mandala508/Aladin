@@ -2,15 +2,31 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 29; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/play/lGJuHmFcMA7MBbqnatJomYB6QOW3144cvkl6N_KwLNcO_qpBDrf0NG47vDc52GTc/ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/C3EDBC696AAC131442519E084F870CFE/64.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/C3EDBC696AAC131442519E084F870CFE/65.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/C3EDBC696AAC131442519E084F870CFE/66.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/teTXPBF.gif" group-title="Siaran Langsung",SIARAN 5
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 29; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
 http://103.149.177.226/play/lGJuHmFcMA7MBbqnatJomYB6QOW3144cvkl6N_KwLNckuTdkLfoQ0al4RXmaEmgC/ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jrhfk1o.gif" group-title="Siaran Langsung",TANDUK SETAN
@@ -20,7 +36,7 @@ https://www.dropbox.com/scl/fi/nbilgpi5htr1slhrsf7t2/Tanduk-setan.mp4?rlkey=apu7
 
 
 
-#EXTM3U
+##################LOKAL################
 
 
 
@@ -173,14 +189,91 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QqzazmK.jpeg" group-title="TV NASIONAL", Jowo Tv
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/11962
-
-
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h108/index.m3u8
 
 
 ####################################################
+############## KING TV #############
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4Akbz5O.gif" group-title="NASIONAL FHD",indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/6.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/XeNpTVp.gif" group-title="NASIONAL FHD",mnctv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/9.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/D9uE7p5.gif" group-title="NASIONAL FHD",gtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/10.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/FeUYtqL.gif" group-title="NASIONAL FHD",antv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/11.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/zL3zjs9.gif" group-title="NASIONAL FHD",transtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/12.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/9ODJebP.gif" group-title="NASIONAL FHD",trans7
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/13.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/55ZYSCQ.gif" group-title="NASIONAL FHD",net
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/14.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/giM9J3D.gif" group-title="NASIONAL FHD",iNews
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/15.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/S7yyWe9.gif" group-title="NASIONAL FHD",tvone
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/16.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/0iH09BY.gif" group-title="NASIONAL FHD",metro
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/17.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/WfYAwN5.gif" group-title="NASIONAL FHD",kompas
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/18.ts
+
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/x2UyMCM.gif" group-title="NASIONAL FHD",sctv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/7.ts
+
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/jYgmgk3.gif" group-title="NASIONAL FHD",moji
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/19.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/EoeOX2P.gif" group-title="NASIONAL FHD",vtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/20.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/qqW9zMu.gif" group-title="NASIONAL FHD",rtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 27; en; TNCMMMEFYR) ExoPlayerLib/2.15.1
+http://103.149.177.226/live/F26817AA44F749F04D169917F8A6367B/22.ts
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/qqW9zMu.gif" group-title="NASIONAL FHD",rtv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/55ZYSCQ.gif" group-title="NASIONAL FHD",net2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+
+#EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/FeUYtqL.gif" group-title="NASIONAL FHD",antv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+
 
 
 
