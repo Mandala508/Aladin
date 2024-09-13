@@ -9,135 +9,116 @@
 
 
 
-#############################
-------⚽️ LIVE EVENT ⚽️-------
-#############################
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/V8eF6r9.jpeg" group-title="Live Event", server 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/V8eF6r9.jpeg" group-title="Live Event", server 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="Live Event" tvg-logo="https://i.imgur.com/V8eF6r9.jpeg", server 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/102
-
-
-
 
 #######event timnas########
 
 =========================================SPORTSTAR 2=================================================
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",SPORTSTAR 2
-#EXTVLCOPT:http-referrer=YmNjMzdmMmU1YmZiMGQxNe7+hNT47WuWWYBi4XfSqBq2EH5oghjY8++D5MrgRKd3MGFiNmIyODU4MTA5ODY3MA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ZTQ1ZDQ0OTU2NDM0ZDhmYeS4jdyfs+WTCVmINeArqcqkWwbo4vDdmcDorK2hM9cEHVXRR8g6VjUMXo2d9sNZMSVGKPugqNZsKAIPxnKLLHQOPTc0tgnlrZwJdjCAw5ziNWM0ZWE1YWY4YzI2N2NkMw
-https://iptvonline.x10.bz/NGUxODg1ZjUzMDEwNmRiNMJbk83zHqdd6ZiSCuaLwlqH9Dsn+OXLRW2CYaLBK4ayxIexJiB89JAhNyvkh7pAOXZcfKF5OJKCmJTE3W3s4Y5hjmaqVuV6jZMhTcAvbLZ0C+HSyZAG2yOFMChJZEwPA2Y1YTNkODY1ZDMxZmVkNjY
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NDYxZGQ4NjEyYWE3NGVkMe3KsJQuGgsV4vNxIGIa5Vk4mf0r3mkXEbGYMx7drc+Gx6FNYzRr2jReI1rit3T1f3ylqNenIb/6IMBwGsYiFWEY45ZNUtKI46TZNG+mzqdkMDJjZWNkNDE4ODcxZmU5NQ
-#EXTVLCOPT:http-referrer=MjhhMGQ2NzNkMWU1ZDk4Nb7kYnwMXb5qf72LcG5mWQk9F3BnmQwn/zCe3xmUty0zZTBjNmM3ZjE1ZTBlMWY3OQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",SOCCER CHANNEL
-https://iptvonline.x10.bz/YjMwYzZjZTdiNzU2ZWE4Zr0Zrk9o/Ddp/vSg475QHxRZiBIhpwnxI7yMNiBMzGg6HDhWlvuM5liRSwxdPM2/HtOR8ZdeGh6Rc2POVClWOKQqm7nc4vQ5AXIZbW09ZeJEo4G/QHNT3K5G0KKKhUlcZny7k0Oi8fJMX04D5bMSH3U3ZmE0MTk2ZDRiODVjZTJh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",refresh |Astro SuperSport 2
-#EXTHTTP:YjYwMTg2NzE5ZGQ5NmUwODU4LAvXz5HY166gCtPEv6I1U9+dsQeLniHaOeimYPiUhVpr/pUeNuRvURE4mVs7kqy52+Z7v3TRO3d8CIJS5QIDse8Ib3u74FbhdjAQbJEed7fKEhkbkvBWysJQnTJs7AvFgvvDZ5d2w4Y1MxCa7ljwWErwMdPXWZ6Qlh+w/Bn/OzUdTLGqgB9eQh/UvAHP4ZAbFYvs73qFISFpCaBiSA+7F/efNfte5aXe7kTaVj69SWI1NLAZ8GqJGOkb1EpDcYHLg/xXyJN8znWTfEAFekmlwzG6HO7Za5ExgRl8Cu3n/+SJXVbojE/bjqSYKGHIuDYzN2E4ZGFjYTc3Njc0YWY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=NjFlZGQzMjI1MDdjNzk5Yyf0EEoMLEWwspW4/OGuuqw0c4P64z8VyQ32rq+voexOTY4VGf4crndCN8tpoqLghWGZ/zcxAi6EmP0nN++E9TULc5egE7W0hHmnsdOnxNuMNGVhMDA3MGM0YzhjYmU4Zg
-https://iptvonline.x10.bz/ZTE4YTY2ZjY2ZTA2ZWIwOEnmAkwQeOFo9BVbDUaaDqjiPYWziZO3olw8/L8JQpVu07MaCfwO00LbzgopNFWpDOsdaDTXu5R4mbz1qBw0AZ0Q28pf8O0p0xqke/O5mxNu/58NyNo2CaKE8VHdXwt2jLF42S6FEHWNGaUcpJGk5NydK+lNXMBCvi0yyM522cpzFM1CzM7CjE8BIfmzQ0cgtFamyiUzABg1iNMRtRWCR+EdlB70DIgh+zZKtjXUFF9yuZyL1wlVtYE2txwxds/+efCAoPpG0kG7ofeWO6uCCVlx4m189QQ6hoTyL7gfA9Xzl0Ii6WT1I8tZZpXhnHERqgD0VkJS8Fs+YVRgZFJx4In1+H0bfoMTamH6an+4ORCcA86ch9KO2nU4zCR151O08vmozC6vvWknNy+iCd49eQvKLyWFc4P9hbYCcihLVSF7noh9Jq8IG3VXTP4UyNBnaWiwVL8h41fyvhV8f+0svi69+lbGUEA0GtNSgmen+ua9KuS/Zd5mMKRwT6dgY4IBIRn6JdIvT2mtSMH1sRJ3XmNkrwVX/sor6IFjPcJ8uCdSpepP45P8RoQRA/AQic7OPc+Hm2wkYJgCalZysVBcs831AN4VaywwWQ+iqBAtuvwymFJTIZhMJDEzNIoxgcNk8U/0Y1TOgn9MtrdYPEuCsPx79LFazGzNNBei3ZifpkBrsSivrkUyBicqp1LhZ1BkzYLvWutHiBQHMs36Y/ToTOY51ckNT0Pl2h7RWvtP+TaFgWWKQ3c875KlQuoT2Gc0PJTf7bXOeIwXnWBMVdfwpAjfT8FdBAh0vedMiwopRdQOjZ12YuKvjhZlUhF2TmkCtksOETIvyhr7MAZrxj2IoE6WEe0q2ZVZdsVQGl8oOAuAh33rkT5/9fzKaqRKH9YX/4xDlTT0KzlolK3VUFxt9rmZSwowNKxFwdZu6mYeSfyBht2ny6xaJeAfBZ5hJtr2rCrQjrHj0ZYWFql6VM6ju/fm4ltS6NwrdZeiJ5N9OgwjCrtP7Q+vID97/PYGxBNOcOL9MqlBPliTME3pj10cMgw+Ew7UXzzI+m2f6PEFyOaQQipfqDtWAvCDQ7yKotxRZITiZKEgSmy9QQ1uxW4cMtWnfGoeFE0e9fwqFFT+/e6EvfU2tNjn1625F6N3GV2vQGQJ7aZDo9hmhEnDx/lTHis3N1ewBMOxWiRxlM42hvwNtLLRpxLHloIqUL3C66A+PZlvaeMJDVOxcOeiiQdHlDnKUKkcEe02w5cm/KvADgplyoDgtiycFF9z3LMa+LMEm5YeDKsVicJOosO4D6sY0EPu0QesJOc8BmJPsYzPAKKMhPLrfVYB9u3inmc8Xu/6wqic50E4lDLIIeUOaQ+5SMdak3M2bo2BNX6EKLhkeVYCK0Ap80RKDoojiyrV0EKCOtnRH43bLCLoJ5/NSa93FFyi6MvRhbJT3CgwwXjxbpg6rdreOsyXs7scjMbm+KAYD213Ox68ii8ODtUoo4DdVz4f2PHah3dVgGIMGOyI9DnrOtILkTrHqI6YSscznauyjbujvUcf1uQwUlftNOzDp4BiOGRlZTNkZjBmYjBkZTQy
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live",ESPN 1
-#EXTVLCOPT:http-user-agent=MDJjNzE2NGJlOTUzYmJkMbmDhJ5xH9k/4/1yWv7ld3soa7VeIc3Y9yspJ/hOVPxktdZEFjnEeci9l6EgUbC2RAqktMNg1lqfwqpbaQ7UrnqN3mnxPrhuKMUWjMIExJUY9gS8uy1DSvDCIqQ9p5nPUFj9gFCQY2p+m+swdzKpkzati8Su3jtmJFwpnKid/65QOTdmNDFkMWViY2ZiNmIzMA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MjljNTVjMmZkZWUyNDMwMQwAEmCeMJ+aCqZoLB8AgnPV43yYabqw/wsjM4CcpFZ6BYC+cd6eLObeAtEQYEyIx/y6gdGLuUPKdIH03bz+CCseVRe//z0r9tlwTL/fhuKEYTJlZmJjZjUzNzliODg0Yg
-https://iptvonline.x10.bz/Nzk3ODBiZWRjODZjNmIwM7YfB2iPzWXRryz9GPatEKHEY6spidDgDstMGEKYtGhlwOsBH2gG25cc8/tX8mEBZHNGdKPMWir6VYDBWtuvG2U4YjY2MTFkNDUyMjg5ZGQy
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live",RCTI+
-#EXTVLCOPT:http-user-agent=MjcwZDY1ZTNiOTFmZTEyZFeT1vZnbSUsBBoYFB3qrqpOqj1clV8dc5gofWJ7K0CC8zpe+P4jcJGcYVxFsaeqNOkThjYOT8uuw6CSs6Nh2DnOo6wQie5ipdQR88rFQci/6ksTE0SZb404m7p8jFveR4iIiOk//2igruvWrNkjVQDuBvksUi3PAQf6E2NUrI9FNzExZTc4MzRlYTc4NmEwOA
-https://iptvonline.x10.bz/NmI1OTNjNGNjZmY3YmM1OZ283hbTnRu+Kg+oZ/13o84TKo8+aF1Vo8F9B9gf8jiYpMb55eFwCxpeMdhgyaPCFTUyYjFmZmRjZWEwYmZjMjc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live",soccer
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=ZTU1MzFlMDQxZDRlMDRmOVUsNGlYDxKfBsahN30CKs/+4KOvJ3OwXKdCvsqKt/wMnp6SPQ8Jr/aFFE3gJKkNBcih1xOSBOXRh8p7wu+QbcGUwIOCsinir1o8zzy1VcqQ0MpRM9mzBJ1fT7yZGOzzxRruZLbtOt1OaEsmDUfYBNc2ZjFlYjJmNjhkMzM2YzJl
-#EXTVLCOPT:http-referrer=ZmUyYmE1Nzc0ZTExMTg4YuwJvzPyzpZVwJsOmO3GYzTzXJXlNi9jVnNfMpl1UZQ400vwPLbZQyCTQwtohAeQymY0MTg5NDNkYWIyZjVmYzI
-https://iptvonline.x10.bz/YjM2MzRmZWMzYmQzNDkyNqe4Sr+f8qm2SKO74KGFiSci6vTfhJbpQPjglqb1yhmM8K2RvtIyNB3GWy5RYClFHB8h/9w0tdlHIKyrMnhtXfUqqNWmZobPPZRI7/CZWWLzMRq1mn2QbmL6n189i9AGSHogeTbtUPg3tKhMrvn1xm9hMDE2NjU1YTQzNTg0MTlh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live", sportstar2
-#EXTVLCOPT:http-referrer=ZGQzNTZkOWVjZTc2ZTg5Noir7USv/WeUz5ICOXo1v0pZasOJz1T9FJ/Fb/dd6J6bp0h4D9tWSlrtEZP2XT2JkjUwYTFlNzMzODg4M2M1NzI
-https://iptvonline.x10.bz/OTY4ZTljNjVlMjQwNDdhZAn0pWfiBfYjXsrKEiKTTIhO9gVudsQ60GeG0Pbi0fkjuseQ552udztsvxEKfbjkiV2BTHB/TWmukEiPmb8O80uGY8/2lDKqpjjveN5hDpYugp9HfIe6PPwiTY9Aa+unhjYzZjRkNWZkNzg4MWNkZjY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live",SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MzQ1YzkwZWU2ZjVkYTc5OI/nSgudxAPLciMLiUm/YFVxVjBS5dMFh8zFNxbnQFRrIxY5MFP3Fo07zQEvbMQE935i9N22DRU2ATWybYF4mS+DCrLu1bqu5A+iM/q85BfKNjFmMDZkZGU3YjhjYzhiYw
-https://iptvonline.x10.bz/ODNjM2Y2ZjNlZmMwZmIxM91zK8VE4yyQc2z7YU6afUdBEd/39Wl0KDYCKErcT90qB4kt53QaJ/NiU0dS334N28ARnwfRBXTtftxWDw157VLtAX5re7UkvAbOdIWPRq/wJhwnyjYB/m1Ug7tJblCGRGY3MDdlNjNhZDgxNDA1MGY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", group-type="live",fancode
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NmQ2MjI0MGUzYzA1M2NkN2y8cmc4ZPFarDsCRQIFw/iMqiHIbMzEUyo/MbtpBcKMoPX9q34qHy9FFTjPK0sYtZi38dqZ1FTFT/O1VuIu8PVGx3pDhzxnS0bskffMMYr3NTY5Zjg2NDlmYjljMTA4Yw
-https://iptvonline.x10.bz/NTE5ZjY4ZjVmNDIzMGUwMRtM2WwPFotqy8Gd6Jef/AivlhBeBF6RQtuXDoOz0tdPuOMwa3HODzEm5qEcBHQ2U9j0x+7ZesIoPImo+TNu1y5DstJtcGUorkrZ5ySZEdJt+wF/dqvWnRqwoh0wAYPtWaq5LY47Fil+zANQQKEpVlEjpm3X0K3eT15vwIYx+S8gDY33rhPGD8F2BN5iei7DUmY5ZDRkYWM2YmVjY2YzMTY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",SPORTSTAR 2
-#KODIPROP:inputstream.adaptive.stream_headers=YTlhMWIwOGRhYmQ4MDc1MvsxOFD871bwPLfIQP+IFv3zeuaGLUB5u0M8xZokuUYoIQrG+G1Qi+OsIqmE1b94lDBlOTFjZDIzM2E4ZmU1MTk
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://iptvonline.x10.bz/M2NjYmNmNTBiZWEzNTA5NwAaxP+gk4m7/uwupEDtP9ECRGOnWSjVD1o19H57YjTLHYU9uwoAcjDSSEXzSQ/+6IfKzGPXWPrL9ivPalkHwexT1/JlX+AUVIBM33BUpNARiOqXt8ussPLeNDprTdQTcGNkMGRmZDhmYjAzNTEyYTU
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",RCTI HD
-#EXTVLCOPT:http-user-agent=M2E1NWMzMzI5ZDczNGIzNih+WnvFwv+r3HZzpTMVNa1msxmDlhDyiQ5awGm3Y7+CRpH26Uu6oIa8e9Ty9uQOolPhw1CthKXAlTJSyB9leUhj1c8i0OPos65gJ6pk0IhdNjcxMDI0MGFmYWFiZGEwZQ
-#https://iptvonline.x10.bz/null
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=ODIyNTEwYmQwODk3N2RjMQ28/vQzBC6brYlZhX9F7cUBRCrEY/miPPDv6LB+8sRaWQ1zfRRFzSPT66Bhin2RyhlOQpN4wdAt4ZkxwEsbBNwVJyExUvtAsmLwWLczm/oxNzhkNmYzZDU3ZDY4NDljZA
-#https://iptvonline.x10.bz/null
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", events only(multi)
+ 
+ #EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",Sportstars 2
 #KODIPROP:inputstream.adaptive.manifest_type=auto
-#https://iptvonline.x10.bz/null
-
-#EXTHTTP:N2MzMDcxMDI3Y2MwYzU4MUyoRws44f0SvUgRHnsnGeZksHyPkbkV+zwZ37A4ydNl5xjlDVG7vHxPZH9vq8dOMZmhrsabjKJpsyiu9bJM6mymTr6bckrQ6IIWLeWz7mkzhktbZYTlm/cF8KRk1qvsjA+Kt2K3eLhNTg4+KEl6fQlPmCXgc8lbGT9+4fKJcixBWK/mCFW5SpvOqpFqQn954v4fydzNoaAqwAwMMAv6eZFMsVjZNY2uq84n/aQCdeEQGvV3rnfvf48WHmyTwXy8M5ih+joGSVtwlwfnU2mTHZw1ZTYyNzhmZTBhYzlkOWRj
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", events only(multi) 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=N2U4OTYxZjI3MDRhNmNkZuqJFDYzMY5UCs2RMmTe75uGH2XCu32vzCGIt6kTt2Rad2Pm7P2cnVcb41ytGJt1tkigAC7R5dTglTg/RDuzPYSksDEOMCCbJdwCevIaoX9MNTNhZjM5ZjY0NWE3MjMxZQ
-#https://iptvonline.x10.bz/null
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",events only(multi) 3
-#EXTVLCOPT:http-user-agent=YTY1YTM4ZjYyYTFmZGY1MDJ6ICDi4TZhbu2Fc281Eg3j90B/yvcIcwO3gqC0CocG4PLgxv2XxtWrA5hshJBTPrSrHbj7EncQ3NchAHq6Mb2yrqxQoGk+E78r2axMLS6UkJkT1WDzBJilE5lNCHTezlV9mOutjhY2ARZjv9WJZEs1E1wtV0k2V+cz/xOGLrrQMWUwYmQ1YWRmMGVlOGU1OA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ZTljOWRjZDU0N2IwMzFmZEB7Z/BT30ME7uF/X1Y7QsIBrLZi7pf5V56HgElhB35/BGgTHRiP0W+dnwjsTSfOAjRt8RgWsVlMoGFJU7zY02mSOSdLBxc+XlVrch2Lm9haMzhkY2NiNzA5MDEzY2Y1ZA
-#https://iptvonline.x10.bz/null
-
-#EXTHTTP:NzNhNTAzNjY3NmI2MzViZvYihHl7dtYz/P8ctVjBVPsOGmXc79cX6RIt/x60z23dAyMA5/oaNt+uLU/PoDARZzq3dAWc4d3/S3VJGwdB/9j5r8ali3hbi9xd9Kzi3Icw4TIYaxzv265S1yWlxBv6urBPZpSglsY2IdyXWyOAdbjJdRrUzICZVeHeJ0NH457S6CAPFFfMoWKdX+do96EoBwouyxc1VA/L1bmyXIqw8PG28CrbV8xgP3k060N6sqvCzUswgJS3ezwPuy1AoRgu/FNEQjW9aMT8vQTVyo3Q2yplYTA2MDgzZTBmOGM4NTVl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event", events only(multi) 2
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MmExZWY1NjI4MjY1OThjZfVuuBbIy1cXFq7lpD4FPl/Htjo8//MBSS8hKcrRV2PaEvJJGoaSLntE2OD6udFpPHFIAekoDtxHosupnHZAOfPOgKMWrMJzOSYPvyaIqZ2wMGE4OGJhY2RiNWNiMjM1MQ
-#https://iptvonline.x10.bz/null
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SOCCER CHANNEL
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",events only(multi) 3
-#EXTVLCOPT:http-user-agent=MTQ0NjA5ODg3MGY1NWMxNJGYcoUWCDcv+cL/v25AKpD/PlPxaPD0G7wr6pIEbW8zCCzMkLqj7L42QHQg5QqOJ6c9EhOv8sM9lflmRuVEikyKIiYsUkz2G7KlZjH1Q6FpXcqzczSxcxp3YBAzlWuKKrgA+IEkNBKEKOEvwVjI6nqRIK0pHnNmbU7Mo3g3iXZAMGUwZTUyOTczMmU0MTBlMw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",Sport digital TV
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NzBkOTg2MDIxMDc2N2U1NQWD+I/tgYnwDTI9xShSqIPVjYVstMbPgC75Lur5SMvQ58Q+vIZQ2lbzSTYMj6YOtz3x+UF8wtuibR6Kl22bcuHGuqsGni5WUKW0YQDgjbKdMjY5ZTZhNDE2ZTNjMDViZA
-#https://iptvonline.x10.bz/null
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdcJwTR.jpeg" group-title="Live Event",events only(multi) 3
-#EXTVLCOPT:http-user-agent=NTlhNTAyNzg2NDFjYTMyZEndxjrNJ+Wa2DMEmVBmhPL1TjOGrS5MMCw5yOK+FFkRBIs64DS7vAqbUBHPp0ZPdAWrorjDa8pjIK+gGzgV17pJXGW+0aJy48koC9JnA1u9Z0tQbdqzrwEvHTN91466er78QBSKqJVWtvdd54HiTNFP6fVaY90UiX3ZCy/o67WxMjEwYmY0MTFlN2QxMTk1ZA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+https://1s1.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",soccer
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live", sportstar2
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",SSC 1
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0
+https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",fancode
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=OGJkYTc1NGNmNGMxYWM4MF4WVXV5Zg533DkN5fyIZiz85eWmmGGdPhHes5xvig/+p3TfKr9B4dqIU2v14nER1DHUQb/I4A84YHPjX6O2zdf/2iUw3z7n0HynvuSmxQS5Njg1N2UyNDYyMDE1YjFiNQ
-#https://iptvonline.x10.bz/null
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SPORTSTAR 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.18 LibVLC/3.0.18
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",RCTI HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#https://www.geocities.ws/wakhaji/offline/offline.m3u8
+
+#EXTHTTP:{"User-Agent": "Mozilla/5.0%20(Linux;%20Android%2014;%20RMX3393%20Build/UKQ1.230924.001)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/127.0.6533.103%20Mobile%20Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://xplayns.xyssatuu.workers.dev/xPLAY_01.mpd?id=loh&ch=17701
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://kametv.my.id/pdx/play.mpd?id=17701
+
+#EXTHTTP:{"User-Agent": "Mozilla/5.0%20(Linux;%20Android%2014;%20RMX3393%20Build/UKQ1.230924.001)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/127.0.6533.103%20Mobile%20Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
+#https://xplayns.xyssatuu.workers.dev/xPLAY_74.mpd?id=loh&ch=17674
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
+#https://kametv.my.id/pdx/play.mpd?id=17674
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://kametv.my.id/pdx/play.mpd?id=17701
 
 
 
