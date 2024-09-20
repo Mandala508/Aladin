@@ -1,5 +1,79 @@
 
  
+##########Badminton#########
+
+
+========================================soccerchannel-HD==================================================
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",SOCCER CHANNEL
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
+=======================================SPORTSTAR 1===================================================
+ 
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",SPORTSTAR 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+ 
+=========================================SPORTSTAR 2=================================================
+ 
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png", TNT Sports 2 | OTT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png", TNT Sports 4 | OTT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://alfa.otv.my.id/vision_new/drm_vision.php
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png", SPOTV | mnc
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png", SPO TV | indi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",LI-Ning Hongkong - Court 1
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726076293/ei/JYHhZvvBJubc3LUP39e7iAo/ip/103.175.206.33/id/MlsnhPFgNBI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257033/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/spc/Mv1m9qBLeSj8863fm7mSoAzzQbXa1jBHksfDOt7frRZER3a4mzMrB39x0hlTASY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDMiGB8XDk5dsnn1t74VzrNgTiAYka5qZOZwMCw5QRYMCIGebKnf3OfFcn1isJ-BeDxo_Ad7L5UeazuRLNnr1xtwx/file/index.m3u8
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",LI-Ning Hongkong - Court 2
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726076498/ei/8oHhZvL5MJns4-EP2qDP4Ak/ip/103.175.206.33/id/c79qDl9YYoU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/spc/Mv1m9lGnICQjqIawCUxFYl9hsCrg6WttJDEjmwr5DDqDFmJ1gs9poztJByA1glU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKcTQuq2dF83lS3Lon6f3ADxxSei7-JCgeiNR1MghOykAiBhlxllKboHJHsES5UsHN9Fn0ADIHr8U5dt08-HOhryPw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",LI-Ning Hongkong - Court 3
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726076525/ei/DYLhZvrLELiyjuMP-t7NyQw/ip/103.175.206.33/id/iZL2Gp-uIjg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257036/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/spc/Mv1m9hTSYMKlkKrODEvl-LDjcClHugiC8Gbsvm2e6-ugSQxmdwhVQ-T-BftNQc0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOucz-V9U4j9u1w-6MsNSo3xBJEs0CdioyihOX31l53tAiAk-cf2phMU93PD8b0AwLVOEPY3EsPkv92gIthyHyMMeQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Badminton"tvg-logo="https://i.imgur.com/s1pBjpZ.png",LI-Ning Hongkong - Court 4
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726076565/ei/NYLhZrLbAs6X4t4PjO_moQM/ip/103.175.206.33/id/FtZDxEW2dLA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/ss/1/spc/Mv1m9i8m5_gR0mlou8CXHSReGc_gmtfun1iYmdUz-DjBqZN5eRVGC98ow-nd4VM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbJffTmeJxx2A4fkX4T000TQ03_YGX-lg8ii_7Odlg90CIA0vw3NXAAJ9q6gsDoiCBjjncUwf2o3zSMGJYssR_5UG/file/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/s1pBjpZ.png" group-title="Badminton",L'Ã QUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 
 
 
