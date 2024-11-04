@@ -219,13 +219,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
+http://xtv.ooo:8080/0966717777/0966717777/350972
 
 #EXTINF:0 tvg-id="tvg-name="tvg-logo="https://i.imgur.com/nyZh3P3.gif" group-title="ALD|Nasioanal",indosiar HD
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
 
 #EXTINF:0 group-title="ALD|Nasioanal" tvg-logo="https://i.imgur.com/rOMTmfP.gif", RCTI
@@ -438,21 +435,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/hykWqdd.pngg" group-title="INDONESIA", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aM0LAgY.png" group-title="INDONESIA", INDOSIAR HD
-https://thedream.biz.id/live/endosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aM0LAgY.png" group-title="INDONESIA", INDOSIAR HD
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aM0LAgY.png" group-title="INDONESIA", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aM0LAgY.png" group-title="INDONESIA", INDOSIAR HD
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+
+
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/HpCygM9.png" group-title="INDONESIA", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
