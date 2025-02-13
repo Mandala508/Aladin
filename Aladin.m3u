@@ -456,6 +456,63 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 
 
 
+
+
+
+
+
+###########################################################################
+                                         DIGITAL TV
+###########################################################################
+
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.imgur.com/xCKZPEO.png" group-title="TV DIGITAL",NET. 
+https://zozotv.xyz:443/live/zotv744/zxy086/50.ts 
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.imgur.com/i6pnfPy.png" group-title="TV DIGITAL",GTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/48.ts 
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.imgur.com/3u6KWwH.png" group-title="TV DIGITAL",SCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/c2Uw2rR.png" group-title="TV DIGITAL",MNCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/49.ts 
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.imgur.com/19lw6qg.png" group-title="TV DIGITAL",RCTI 
+https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/Rx7GJoK.png" group-title="TV DIGITAL",INDOSIAR 
+https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.imgur.com/DlqeVRa.png" group-title="TV DIGITAL",MOJI 
+https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/5bfYraN.png" group-title="TV DIGITAL",TRANS TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/43.ts 
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/vYpJbqE.png" group-title="TV DIGITAL",TRANS 7 
+https://zozotv.xyz:443/live/zotv744/zxy086/44.ts 
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.imgur.com/1881HLS.png" group-title="TV DIGITAL",Dunia Lain 
+https://zozotv.xyz:443/live/zotv744/zxy086/346.ts 
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.imgur.com/oxI3yey.png" group-title="TV DIGITAL",ANTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/51.ts 
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.imgur.com/vYRnQnx.png" group-title="TV DIGITAL",TVRI 
+https://zozotv.xyz:443/live/zotv744/zxy086/359.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.imgur.com/1CUY7Kw.png" group-title="TV DIGITAL",Rtv 
+https://zozotv.xyz:443/live/zotv744/zxy086/364.ts
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.imgur.com/WutovuK.png" group-title="TV DIGITAL",TVOne 
+https://zozotv.xyz:443/live/zotv744/zxy086/142.ts 
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.imgur.com/K6meWya.png" group-title="TV DIGITAL",KOMPAS TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/143.ts 
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/XyH2Pp5.png" group-title="TV DIGITAL",METRO TV 
+https://zozotv.xyz:443/live/zotv744/zxy086/144.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://i.imgur.com/tt86jX5.png" group-title="TV DIGITAL",iNews 
+https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
+
+
+###########################################################################
+###########################################################################
+
+
+
+
+
+
+
+
+
                                 *****************NEW VISION+****************
 
 #EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
